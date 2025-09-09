@@ -10,7 +10,7 @@ def largest(lt,n):
     return maximum
 
 lt = input('Enter list sepaated by space : ')
-lt = list(lt.split())
+lt = list(map(int,lt.split()))
 n = len(lt)
 
 print(f'Largest element in the list : {largest(lt,n)}')
