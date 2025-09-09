@@ -1,5 +1,5 @@
 '''
-    Finding the Largest and smallest element in the list
+    Problem : Finding the Largest and smallest element in the list
 '''
 def largestAndSmaller(lt,n):
     minimum = lt[0]

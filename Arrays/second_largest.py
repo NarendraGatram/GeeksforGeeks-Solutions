@@ -1,5 +1,5 @@
 '''
-    Problem: Anagram 
+    Problem: Second_larest_element  
     Link: https://www.geeksforgeeks.org/problems/second-largest3735/1
     Category: Arrays
     Difficulty: Easy

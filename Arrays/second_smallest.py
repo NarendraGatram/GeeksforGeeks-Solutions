@@ -1,5 +1,5 @@
-'''Find the second smallest element in an array. If no such element exists, return -1.
-    Problem: Second Smallest Element
+'''
+    Problem: Find the second smallest element in an array. If no such element exists, return -1.
     Category: Arrays
     Difficulty: Easy
 '''
