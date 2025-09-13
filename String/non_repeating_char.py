@@ -1,6 +1,6 @@
 '''
     Problem: First non-repeating character in a string    
-    https://www.geeksforgeeks.org/problems/non-repeating-character-1587115620/1?page=1&category=Strings&sortBy=submissions
+    Link : https://www.geeksforgeeks.org/problems/non-repeating-character-1587115620/1?page=1&category=Strings&sortBy=submissions
     Category: Strings       
     Difficulty: Easy
 '''
